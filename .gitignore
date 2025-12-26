@@ -7,3 +7,4 @@ __pycache__/
 venv/
 ml-env/
 .ipynb_checkpoints/
+fashion-mnist_test.csv fashion-mnist_train.csv fmnist_small.csv .gitignore
